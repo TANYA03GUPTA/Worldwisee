@@ -8,14 +8,12 @@ To run this project locally, follow these steps:
 
 # Start the Local Server:
 Open a terminal and run the following command to start the local server:
-
       npm run server
 This command sets up the necessary backend or local server environment required by your application.
 
 # Start the Development Server:
 Open another terminal (while keeping the first terminal running) and start the development server for your React application:
-
-npm run dev
+      npm run dev
 This command starts the Vite development server, which compiles your React code and serves it locally.
 
 # View the Application:
